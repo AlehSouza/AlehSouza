@@ -10,10 +10,10 @@
 
 | Dev Skills      |Industry knowledge        |Soft Skills                       |
 | ----------------|--------------------------|----------------------------------|
-| ✅ HTML5        | ✅ Trabalho em Equipe   |✅ Scrum                          |
-| ✅ CSS3 ❤️      | ✅ Design Thinking      |✅ Web Design Responsivo         |
-| ✅ JavaScript ❤️| ✅ Scrum                |✅ Desenvolvimento de Interfaces |
-| ✅ NodeJS       | ✅ Organização           |                                 |
+| ✅ HTML5        | ✅ Web Design Responsivo|✅ Desenvolvimento de Interfaces  |
+| ✅ CSS3 ❤️     | ✅ Design Thinking      |✅ Trabalho em Equipe            |
+| ✅ JavaScript ❤️| ✅ Scrum                |✅ Organização                   |
+| ✅ NodeJS       |                          |                                  |
 | ✅ Bulma        | 				                  |                              		 |
 | ✅ Bootstrap    | 				                  |                             		 |
 | ✅ Sass/Scss    |                   				|	                              	 |
