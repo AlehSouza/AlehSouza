@@ -8,6 +8,9 @@
 
 ## Vamos nos aprofundar mais um pouco...
 
+<table>
+<td>
+  
 #### Dev Skills
 
 - [x] HTML5
@@ -19,11 +22,18 @@
 - [x] Sass/Scss
 - [x] MySQL
 
+</td>
+<td>
+  
 #### Industry knowledge
 
 - [x] Scrum
 - [x] Web Design Responsivo
 - [x] Desenvolvimento de Interfaces
+
+</td>
+
+<td>
 
 #### Soft Skills
 
@@ -31,6 +41,10 @@
 - [x] Design Thinking
 - [x] Scrum
 - [x] Organização
+
+</td>
+  
+</table>
 
 
 ## Experiências
