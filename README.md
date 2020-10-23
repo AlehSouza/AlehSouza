@@ -7,17 +7,18 @@
 > Me chamo Alexandre, tenho 19 anos (2020) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
 
 ## Vamos nos aprofundar mais um pouco...
-
-| #### Dev Skills | #### Industry knowledge  | #### Soft Skills |
-| ----------------|--------------------------|-----------------------|
-| ✅ HTML5       | ✅ Scrum                 | ✅ Trabalho em Equipe |
-| ✅ CSS3 ❤️     | ✅ Web Design Responsivo | ✅ Design Thinking    |
-| ✅ JavaScript ❤️| ✅ Desenvolvimento de Interfaces | ✅ Scrum    |
-| ✅ NodeJS       |                          | ✅ Organização |
-| ✅ Bulma        | 				|		|
-| ✅ Bootstrap    | 				|		|
-| ✅ Sass/Scss    | 				|		|
-| ✅ MySQL        | 				|		|
+|-----------------|--------------------------|----------------------------------|
+| Dev Skills      |Industry knowledge        |Soft Skills                       |
+| ----------------|--------------------------|----------------------------------|
+| ✅ HTML5        | ✅ Trabalho em Equipe   |✅ Scrum                          |
+| ✅ CSS3 ❤️      | ✅ Design Thinking      |✅ Web Design Responsivo         |
+| ✅ JavaScript ❤️| ✅ Scrum                |✅ Desenvolvimento de Interfaces |
+| ✅ NodeJS       | ✅ Organização           |                                 |
+| ✅ Bulma        | 				                  |                              		 |
+| ✅ Bootstrap    | 				                  |                             		 |
+| ✅ Sass/Scss    |                   				|	                              	 |
+| ✅ MySQL        | 				                  |                              		 |
+|------------------|--------------------------|----------------------------------|
 
 
 ## Experiências
