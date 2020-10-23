@@ -8,16 +8,16 @@
 
 ## Vamos nos aprofundar mais um pouco...
 
-| #### Dev Skills | #### Industry knowledge | #### Soft Skills |
-| ---------------|------------------------|---------------|
-| - [x] HTML5          |  - [x] Scrum                         | - [x] Trabalho em Equipe |
-| - [x] CSS3 ❤️       | - [x] Web Design Responsivo | - [x] Design Thinking |
-| - [x] JavaScript ❤️| - [x] Desenvolvimento de Interfaces | - [x] Scrum   |
-| - [x] NodeJS         |                                                               | - [x] Organização |
-| - [x] Bulma           | 				|		|
-| - [x] Bootstrap     | 				|		|
-| - [x] Sass/Scss     | 				|		|
-| - [x] MySQL       | 				|		|
+| #### Dev Skills | #### Industry knowledge  | #### Soft Skills |
+| ----------------|--------------------------|-----------------------|
+| ✅ HTML5       | ✅ Scrum                 | ✅ Trabalho em Equipe |
+| ✅ CSS3 ❤️     | ✅ Web Design Responsivo | ✅ Design Thinking    |
+| ✅ JavaScript ❤️| ✅ Desenvolvimento de Interfaces | ✅ Scrum    |
+| ✅ NodeJS       |                          | ✅ Organização |
+| ✅ Bulma        | 				|		|
+| ✅ Bootstrap    | 				|		|
+| ✅ Sass/Scss    | 				|		|
+| ✅ MySQL        | 				|		|
 
 
 ## Experiências
