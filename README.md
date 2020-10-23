@@ -1,8 +1,9 @@
 <img width="1920px" src="https://imgur.com/lATx8kq.png"/>
-<div>
-  <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlehSouza&theme=buefy"/>
-  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&hide=html&layout=compact&theme=buefy"/>
-</div>
+
+<table>  
+  <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlehSouza&theme=buefy"/></td>
+  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&hide=html&layout=compact&theme=buefy"/></td>
+</table>
 ### Seja Bem Vindo 👋
 
 <!--
