@@ -45,8 +45,8 @@ __Conclusão:__ Dezembro de 2019;
 
 ### Onde me encontrar ? 🔍
 
-⭐️ [LinkedIn] (https://www.linkedin.com/in/alesouza2503/)
-🌌 [Facebook] (https://www.facebook.com/alexandre.henrique.16144/)
+⭐️ [LinkedIn](https://www.linkedin.com/in/alesouza2503/)
+🌌 [Facebook](https://www.facebook.com/alexandre.henrique.16144/)
 🐙 GitHub... bom... você já está aqui né? 
 
 #### Outros... 
