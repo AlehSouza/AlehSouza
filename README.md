@@ -7,6 +7,7 @@
 > Me chamo Alexandre, tenho 19 anos (2020) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
 
 
+
 <!--
 **AlehSouza/AlehSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
