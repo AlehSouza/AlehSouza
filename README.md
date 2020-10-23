@@ -6,6 +6,9 @@
 
 > Me chamo Alexandre, tenho 19 anos (2020) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
 
+### Vamos nos aprofundar mais um pouco...
+
+- [x] NodeJS
 
 
 <!--
