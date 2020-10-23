@@ -40,8 +40,8 @@
 
 ## Formação Acadêmica
 
-* Técnico em Desenvolvimento de Sistemas - Etec de Guainazes ( 2018 - 2019 )
 * Analíse e Desenvolvimento de Sistemas – Fatec de Ferraz de Vasconcelos ( 2020 - 2023 | __Cursando__ )
+* Técnico em Desenvolvimento de Sistemas - Etec de Guainazes ( 2018 - 2019 )
 * Língua Estrangeira (Inglês) - Mega Byte ( 2017 )
 * Informática – Mega Byte  – ( 2016 )
 
