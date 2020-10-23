@@ -33,7 +33,7 @@
 - [x] Organização
 
 
-<img width="1920px" src="https://imgur.com/a/2aHQOxG.png"/>
+<img width="1920px" src="https://i.imgur.com/HhoeWhG.png"/>
 
 
 <!--
