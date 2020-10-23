@@ -43,6 +43,9 @@ __Instituição:__ Escola de Programação MadCode ( Estação Hack / Facebook )
 __Conclusão:__ Dezembro de 2019;
 
 
+### Onde me encontrar ? 🔍
+
+[LinkedIn](https://www.linkedin.com/in/alesouza2503/)
 
 
 <img width="1920px" src="https://i.imgur.com/HhoeWhG.png"/>
