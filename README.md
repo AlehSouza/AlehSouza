@@ -1,7 +1,7 @@
 <img width="1920px" src="https://imgur.com/lATx8kq.png"/>
 
-<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlehSouza&theme=buefy"/>
-<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&hide=html&layout=compact&theme=buefy"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlehSouza&theme=buefy"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&hide=html&layout=compact&theme=buefy"/>
 ### Seja Bem Vindo 👋
 
 <!--
