@@ -1,8 +1,9 @@
 <img width="1920px" src="https://imgur.com/lATx8kq.png"/>
 
 ### Apresentação 🧑🏽
+## Essa é uma breve apresentação sobre mim, caso você queira saber mais é só continuar olhando esse doc ;) bom, vamos ao que interessa!
+> Me chamo Alexandre, tenho 19 anos (2020) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
 
-> Olá, me chamo Alexandre, moro na zona leste de São Paulo, desde sempre fui fascinado por tecnologia, como filho de técnico eletrônico, sempre vi meu pai mexendo naquelas grandes televisões, e por conta disso, de ter essa próximidade com essa outra área eu queria saber como funcionava, e fui atrás disso, quando conheci o ramo de Ti, fazendo meu primeiro curso de Desenvolvimento de sistemas em 2018 me apaixonei, foi sensacional, até hoje, sigo na area, com foco no desenvolvimento Front-End, tentando evoluir mais e mais a cada dia. 
 
 <!--
 **AlehSouza/AlehSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
