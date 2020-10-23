@@ -42,6 +42,10 @@ __Conclusão:__ Setembro de 2019;
 __Instituição:__ Escola de Programação MadCode ( Estação Hack / Facebook )
 __Conclusão:__ Dezembro de 2019;
 
+> __Curso:__ JavaScript - Programação Orientada a Objetos.
+__Instituição:__ Alura Cursos Online
+__Conclusão:__ Outubro de 2020;
+
 
 ### Onde me encontrar ? 🔍
 
