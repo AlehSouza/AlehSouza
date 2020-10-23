@@ -47,11 +47,11 @@
 
 ### Cursos extra-curriculares
 
-> __Curso:__ App Development (Android).
+> __Curso:__ App Development ( Android ).
 __Instituição:__ Escola de Programação MadCode ( Estação Hack / Facebook )
 __Conclusão:__ Setembro de 2019;
 
-> __Curso:__ Design Ui / Ux .
+> __Curso:__ Design Ui / Ux ( Adobe XD ).
 __Instituição:__ Escola de Programação MadCode ( Estação Hack / Facebook )
 __Conclusão:__ Dezembro de 2019;
 
