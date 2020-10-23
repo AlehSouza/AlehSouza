@@ -33,6 +33,27 @@
 - [x] Organização
 
 
+## Experiências
+
+* Desenvolvedor FullStack - Jovem Aprendiz - 7 meses [ ConferenciaCorp ]
+> Desenvolvia páginas responsivas para o sistema interno da empresa, features e ajustes do site do produto. Utilizavamos Scrum como metodologia ágil.
+
+## Formação Acadêmica
+
+* Técnico em Desenvolvimento de Sistemas - Etec de Guainazes ( 2018 - 2019 )
+* Analíse e Desenvolvimento de Sistemas – Fatec de Ferraz de Vasconcelos ( 2020 - 2023 | __Cursando__ )
+* Língua Estrangeira (Inglês) - Mega Byte ( 2017 )
+* Informática – Mega Byte  – ( 2016 )
+
+### Cursos extra-curriculares
+
+>Curso: App Development (Android).
+Instituição: Escola de Programação MadCode ( Estação Hack / Facebook )
+Conclusão: Setembro de 2019;
+
+
+
+
 <img width="1920px" src="https://i.imgur.com/HhoeWhG.png"/>
 
 
