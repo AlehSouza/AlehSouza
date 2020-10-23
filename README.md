@@ -20,19 +20,19 @@
 | ✅ MySQL        | 				                  |                              		 |
 
 
-## Experiências
+## Experiências 👨🏽‍💻
 
 * Desenvolvedor FullStack - Jovem Aprendiz - 7 meses [ ConferenciaCorp ]
 > Desenvolvia páginas responsivas para o sistema interno da empresa, features e ajustes do site do produto. Utilizavamos Scrum como metodologia ágil.
 
-## Formação Acadêmica
+## Formação Acadêmica 👨🏽‍🎓
 
 * Analíse e Desenvolvimento de Sistemas – Fatec de Ferraz de Vasconcelos ( 2020 - 2023 | __Cursando__ )
 * Técnico em Desenvolvimento de Sistemas - Etec de Guainazes ( 2018 - 2019 )
 * Língua Estrangeira (Inglês) - Mega Byte ( 2017 )
 * Informática – Mega Byte  – ( 2016 )
 
-### Cursos extra-curriculares
+### Cursos extra-curriculares 🧑🏽‍🚀
 
 > __Curso:__ App Development ( Android ).
 __Instituição:__ Escola de Programação MadCode ( Estação Hack / Facebook )
@@ -45,7 +45,13 @@ __Conclusão:__ Dezembro de 2019;
 
 ### Onde me encontrar ? 🔍
 
-[LinkedIn](https://www.linkedin.com/in/alesouza2503/)
+⭐️ [LinkedIn] (https://www.linkedin.com/in/alesouza2503/)
+🌌 [Facebook] (https://www.facebook.com/alexandre.henrique.16144/)
+🐙 GitHub... bom... você já está aqui né? 
+
+#### Outros... 
+
+🌱 Atualmente estou estudando JavaScript + NodeJs + Vue.Js
 
 
 <img width="1920px" src="https://i.imgur.com/HhoeWhG.png"/>
