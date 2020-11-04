@@ -1,19 +1,17 @@
 <img width="1920px" src="https://i.imgur.com/mK0hdph.png"/>
 
-## Apresentação 🧑🏽
-
-#### Essa é uma breve apresentação sobre mim, caso você queira saber mais é só continuar olhando esse doc ;) bom, vamos ao que interessa!
+#### Apresentação
 
 > Me chamo Alexandre, tenho 19 anos (2020) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
-
-⭐️ [LinkedIn](https://www.linkedin.com/in/alesouza2503/)
-🌌 [Facebook](https://www.facebook.com/alexandre.henrique.16144/)
-🐙 GitHub... bom... você já está aqui né? 
 
 🌱 Atualmente estou estudando JavaScript + NodeJs + Vue.Js
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=E52A30&icon_color=E52A30&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&layout=compact&show_icons=true&title_color=E52A30&icon_color=E52A30)](https://github.com/anuraghazra/github-readme-stats)
+
+⭐️ [LinkedIn](https://www.linkedin.com/in/alesouza2503/)
+🌌 [Facebook](https://www.facebook.com/alexandre.henrique.16144/)
+🐙 GitHub... bom... você já está aqui né? 
 
 <!--
 **AlehSouza/AlehSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
