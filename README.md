@@ -12,8 +12,8 @@
 
 🌱 Atualmente estou estudando JavaScript + NodeJs + Vue.Js
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=E52A30&icon_color=E52A30&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&layout=compact&show_icons=true&title_color=E52A30&icon_color=E52A30)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlehSouza/AlehSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
