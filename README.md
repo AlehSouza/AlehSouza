@@ -1,13 +1,16 @@
 <img width="1920px" src="https://i.imgur.com/mK0hdph.png"/>
-
-<img height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=E52A30&icon_color=E52A30&line_height=20"/>
-<img height="165px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&layout=compact&show_icons=true&title_color=E52A30&icon_color=E52A30" />
-
 #### Hello World
 
 > Me chamo Alexandre, tenho 19 anos (2020) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
 
 🌱 Atualmente estou estudando JavaScript + NodeJs + Vue.Js
+
+<img height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=E52A30&icon_color=E52A30&line_height=20"/>
+<img height="165px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&layout=compact&show_icons=true&title_color=E52A30&icon_color=E52A30" />
+
+
+
+
 
 ⭐️ [LinkedIn](https://www.linkedin.com/in/alesouza2503/)
 🌌 [Facebook](https://www.facebook.com/alexandre.henrique.16144/)
