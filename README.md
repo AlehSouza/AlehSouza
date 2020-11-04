@@ -1,7 +1,7 @@
 <img width="1920px" src="https://i.imgur.com/mK0hdph.png"/>
 
-(https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=E52A30&icon_color=E52A30&line_height=20)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&layout=compact&show_icons=true&title_color=E52A30&icon_color=E52A30)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=E52A30&icon_color=E52A30&line_height=20)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlehSouza&layout=compact&show_icons=true&title_color=E52A30&icon_color=E52A30)
 
 #### Hello World
 
