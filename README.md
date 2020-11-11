@@ -5,7 +5,7 @@
 
 🌱 Atualmente estou estudando JavaScript + NodeJs + Vue.Js.
 
-⭐️ [LinkedIn](https://www.linkedin.com/in/alesouza2503/) 🌌 [Facebook](https://www.facebook.com/alexandre.henrique.16144/) 🐙 GitHub... bom... você já está aqui né? 
+⭐️ [LinkedIn](https://www.linkedin.com/in/alesouza2503/) 🌌 [Facebook](https://www.facebook.com/alexandre.henrique.16144/) 💼[CV](https://drive.google.com/file/d/1-oyBQcmNe-QR3umraehTd6S-xDYHck62/view?usp=sharing) 🐙 GitHub... bom... você já está aqui né? 
 
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=AlehSouza&count_private=true&show_icons=true&title_color=E52A30&icon_color=E52A30&line_height=20"/>
