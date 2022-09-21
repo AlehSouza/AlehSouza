@@ -1,7 +1,7 @@
 <img width="1920px" src="https://imgur.com/BqJsyhL.png"/>
 
 #### Hello World
-> Me chamo Alexandre, tenho 20 anos (2001) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
+> Me chamo Alexandre, tenho 21 anos (2001) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
 
 🌱 Atualmente estou estudando JavaScript + NodeJs + Vue.Js.
 
