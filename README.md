@@ -3,7 +3,7 @@
 #### Hello World
 > Me chamo Alexandre, tenho 22 anos (2001) curso Análise e Desenvolvimento de Sistemas, na Fatec - Ferraz de Vasconcelos, tenho como objetivo profissional, me integrar e profissionalizar na area de desenvolvimento Front-End.
 
-🌱 Atualmente estou estudando JavaScript + NodeJs + Vue.Js.
+🌱 Atualmente trabalhando com JavaScript, TypeScript, NodeJs, Next.Js.
 
 ⭐️ [LinkedIn](https://www.linkedin.com/in/alesouza2503/) 🌌 [Facebook](https://www.facebook.com/alexandre.henrique.16144/) 💼[Currículo](https://drive.google.com/file/d/1GixahJ2buhaoUmkKzXQ06mAID4_OVJ-i/view?usp=sharing) 🐙 [Portfólio](https://alehsouza.dev/)
 
